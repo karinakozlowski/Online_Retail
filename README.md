@@ -5,11 +5,24 @@ Tata Data Visualisation: Empowering Business with Effective Insights Job
 Simulation on Forage - February 2024
 
 
+
+
 Problem Statement::
 The CEO and CMO have recently met to finalise the requirements and would like you to provide them with some analysis and visuals that would help answer their questions.
 Both, the executives are interested in viewing and understanding how they can use the data to make more meaningful decisions. You would need to provide insights which 
 they can use to create the expansion strategy. The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the
 revenue is being generated and what are the main factors affecting the online store.
+
+
+**2. Data Engineering(ETL y API)** <br />
+
+- **2.1 *Data Transformations and Explorations:***  
+
+I performed essential transformations to load the datasets in the proper format. These transformations were carried out with the purpose of optimizing both the performance of the data in the dashboard. <br />
+  +   [ETL](1_ETL_EDA/ETL_EDA.ipynb) Contains ETL & EDA notebook
+
+![Banner_EDA](Assets/EDA.jpg)
+
 
 1))
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue

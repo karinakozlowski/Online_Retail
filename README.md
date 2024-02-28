@@ -43,9 +43,9 @@ Last Step:
 ![image](https://github.com/YashMohare/Online-Retail-Sales-Dashboard-_PowerBi/assets/160584848/2acbad9b-f34e-4063-a626-69dcc5061209)
 
 
-![Etapas](6_Assets/BannerPasos.jpg)  
+![Etapas](Assets/Diagrama1.png)  
 
-![Etapas](6_Assets/Diagrama.jpg)
+![Etapas](Assets/Diagrama.jpg)
 
 
 

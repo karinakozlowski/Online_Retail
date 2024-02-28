@@ -42,3 +42,25 @@ Last Step:
 
 ![image](https://github.com/YashMohare/Online-Retail-Sales-Dashboard-_PowerBi/assets/160584848/2acbad9b-f34e-4063-a626-69dcc5061209)
 
+
+![Etapas](6_Assets/BannerPasos.jpg)  
+
+![Etapas](6_Assets/Diagrama.jpg)
+
+
+
+
+
+## Autor:   <br />
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/838109" width="200" alt="Karina Kozlowski">
+  </a>
+  <br>
+  Karina Kozlowski 
+  <br>
+  <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+

@@ -1,3 +1,6 @@
+![Banner](Assets/Banner.png)
+
+
 Tata Data Visualisation: Empowering Business with Effective Insights Job
 Simulation on Forage - February 2024
 

@@ -1,4 +1,4 @@
-![Banner](Assets/Banner.png)
+![Banner](https://github.com/karinakozlowski/Online_Retail/blob/main/Assets/Johnson%26johnson.png)
 
 
 Tata Data Visualisation: Empowering Business with Effective Insights Job

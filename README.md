@@ -31,6 +31,7 @@ for each month. The CEO is interested in viewing the seasonal trends and wants t
 2))
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the 
 revenue generated. The CMO does not want to have the United Kingdom in this visual.
+
 ![image](https://github.com/YashMohare/Online-Retail-Sales-Dashboard-_PowerBi/assets/160584848/75fcb88d-e38f-488e-8d14-159222d32572)
 
 

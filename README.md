@@ -72,7 +72,7 @@ Last Step:
 
 
 
-## Autor: Karina Kozlowski - Role: Data Analyst 
+## Autor: Karina Kozlowski | Data Analyst 
 
 
 

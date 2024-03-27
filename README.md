@@ -57,6 +57,12 @@ Last Step:
 
 ![image](https://github.com/YashMohare/Online-Retail-Sales-Dashboard-_PowerBi/assets/160584848/2acbad9b-f34e-4063-a626-69dcc5061209)
 
+## Steps in Power BI:
+
+
+<p align="center">
+  <img src="https://github.com/karinakozlowski/Online_Retail/blob/main/Assets/proyect%20steps.png">
+</p>
 
 ## Data Processing and Visualization Arquitecture:
 
